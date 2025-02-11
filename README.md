@@ -2,13 +2,12 @@
 
 A sophisticated backend system for museum database and tourist group management, featuring real-time event notifications between museums and tour guides. Built with Java using enterprise design patterns.
 
-### 📋 Table of Contents
-
-- [Core Features](#core-features)
-- [Getting Started](#getting-started)
-- [Architecture & Implementation](#architecture--implementation)
-- [Testing](#testing)
-- [Contributing](#contributing)
+### 📑 Table of Contents 
+- [Core Features](#-core-features)
+- [Getting Started](#-getting-started)
+- [Architecture & Implementation](#%EF%B8%8F-architecture--implementation)
+- [Testing](#-testing)
+- [Contributing](#-contributing)
 
 ### ✨ Core Features
 
