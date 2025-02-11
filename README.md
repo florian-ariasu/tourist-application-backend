@@ -56,13 +56,12 @@ To run tests:
 ```bash
 gradle test
 ```
+> [!IMPORTANT]
+> Run tests through IntelliJ's sidebar instead of terminal for better visibility.
 
-> 💡 **Important**: Run tests through IntelliJ's sidebar instead of terminal for better visibility.
-
-###### IDE Integration
-
-IntelliJ IDEA users can leverage the included Gradle Wrapper (`gradle/wrapper`) for seamless integration:
-
+> [!TIP]
+> IDE Integration
+> IntelliJ IDEA users can leverage the included Gradle Wrapper (`gradle/wrapper`) for seamless integration:
 - Automatic project recognition
 - Direct access to Gradle tasks via sidebar
 - No additional plugin requirements
