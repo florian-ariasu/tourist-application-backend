@@ -83,7 +83,7 @@ Manages operations through dedicated command classes:
 
 ##### 5. Observer Pattern 👀
 Implements event notification system:
-- Museums (`Subject`) notify guide groups (`Observer`)
+- Museums (`Subject`) notify groups guide (`Observer`)
 - Real-time updates for schedule changes
 - Decoupled communication between entities
 
