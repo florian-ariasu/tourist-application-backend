@@ -38,22 +38,23 @@ Backend system for museum database and tourist group management, featuring real-
    gradle build
    ```
 
-### Running the Project
-The application accepts two types of command-line arguments:
+### 📝 Testing
+The project includes comprehensive testing:
+- Museum operations validation
+- Group management scenarios
+- Event notification testing
+- Exception handling verification
 
-#### Two Parameters
+Run tests with:
 ```bash
-java Main <pathType> <filePath>
-```
-
-#### Four Parameters
-```bash
-java Main <pathType> <museumPath> <groupPath> <eventPath>
+gradle test
 ```
 
 > [!TIP]  
 > #### Gradle Integration with IntelliJ IDEA 📦  
 > The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically. No additional plugins are required—just open the project and you can access Gradle tasks directly from the sidebar.
+
+---
 
 ## 🏗️ Architecture & Implementation
 
@@ -113,24 +114,12 @@ PersonNotExistsException
 - Command-based operation
 - Standardized output formatting
 
-## 📝 Testing
-The project includes comprehensive testing:
-- Museum operations validation
-- Group management scenarios
-- Event notification testing
-- Exception handling verification
-
-Run tests with:
-```bash
-gradle test
-```
-
 ## 🤝 Contributing
-This is an academic project with specific requirements. If you find any bugs or have suggestions:
+If you find any bugs or have suggestions:
 
 1. Fork the repo and create a separate branch
 2. Ensure your contribution follows the OOP principles outlined
-3. Submit changes that maintain test compatibility
-4. Document any design pattern modifications
-5. Follow the existing code style and naming conventions
+3. Document any design pattern modifications
+4. Follow the existing code style and naming conventions
+5. Submit changes that maintain test compatibility
 6. Push the changes (to your own fork) and create a pull request
