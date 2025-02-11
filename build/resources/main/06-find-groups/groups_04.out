@@ -1,0 +1,16 @@
+7300203 ## 13-15 ## new guide: surname=Elena, name=Radu, role=ghid, age=50, email=elena.radu@domain.ro, school=Universitatea de Vest, experience=15
+7300203 ## 13-15 ## new member: surname=Mihai, name=Nistor, role=vizitator, age=21, email=null, school=Liceul National, studyYear=3
+7300203 ## 13-15 ## new member: surname=Roxana, name=Popescu, role=vizitator, age=18, email=roxana.popescu@example.com, school=Liceul National, studyYear=1
+7300203 ## 13-15 ## new member: surname=Sorin, name=Ionescu, role=vizitator, age=48, email=null, school=Universitatea Babes-Bolyai, experience=12
+7300203 ## 13-15 ## new member: surname=Diana, name=Dumitrescu, role=vizitator, age=24, email=diana.dumitrescu@domain.ro, school=Universitatea Politehnica, studyYear=4
+7300203 ## 11-13 ## new guide: surname=Florin, name=Georgescu, role=ghid, age=45, email=florin.georgescu@example.com, school=Colegiul National, experience=12
+7300203 ## 11-13 ## new member: surname=Paul, name=Georgescu, role=vizitator, age=42, email=paul.georgescu@example.com, school=Universitatea Alexandru Ioan Cuza, experience=9
+7300203 ## 11-13 ## new member: surname=Larisa, name=Stoica, role=vizitator, age=20, email=larisa.stoica@email.org, school=Colegiul Tehnic, studyYear=2
+7300203 ## 11-13 ## new member: surname=Victor, name=Radu, role=vizitator, age=37, email=victor.radu@domain.ro, school=Universitatea Bucuresti, experience=6
+7300203 ## 11-13 ## new member: surname=Daniel, name=Marin, role=vizitator, age=55, email=null, school=Universitatea Politehnica, experience=15
+7300203 ## 13-15 ## member found: surname=Sorin, name=Ionescu, role=vizitator, age=48, email=null, school=Universitatea Babes-Bolyai, experience=12
+7300203 ## 13-15 ## member not exists: surname=Larisa, name=Stoica, role=vizitator, age=20, email=larisa.stoica@email.org, school=Colegiul Tehnic, studyYear=2
+7300203 ## 11-13 ## member not exists: surname=Florin, name=Georgescu, role=ghid, age=45, email=florin.georgescu@example.com, school=Colegiul National, experience=12
+7300203 ## 11-13 ## guide found: surname=Florin, name=Georgescu, role=ghid, age=45, email=florin.georgescu@example.com, school=Colegiul National, experience=12
+7300203 ## 13-15 ## guide not exists: surname=Florin, name=Georgescu, role=ghid, age=45, email=florin.georgescu@example.com, school=Colegiul National, experience=12
+7300203 ## 13-15 ## guide not exists: surname=Sorin, name=Ionescu, role=vizitator, age=48, email=null, school=Universitatea Babes-Bolyai, experience=12

@@ -1,0 +1,17 @@
+Comanda|Prenume|Nume|Titulatura|Varsta|Email|Scoala|Anul de studii/experienta profesionala|Rol|Cod muzeu|Interval orar
+ADD GUIDE|Elena|Radu|profesor|50|elena.radu@domain.ro|Universitatea de Vest|15|ghid|7300203|13-15
+ADD MEMBER|Mihai|Nistor|student|21||Liceul National|3|vizitator|7300203|13-15
+ADD MEMBER|Roxana|Popescu|student|18|roxana.popescu@example.com|Liceul National|1|vizitator|7300203|13-15
+ADD MEMBER|Sorin|Ionescu|profesor|48||Universitatea Babes-Bolyai|12|vizitator|7300203|13-15
+ADD MEMBER|Diana|Dumitrescu|student|24|diana.dumitrescu@domain.ro|Universitatea Politehnica|4|vizitator|7300203|13-15
+ADD GUIDE|Florin|Georgescu|profesor|45|florin.georgescu@example.com|Colegiul National|12|ghid|7300203|11-13
+ADD MEMBER|Paul|Georgescu|profesor|42|paul.georgescu@example.com|Universitatea Alexandru Ioan Cuza|9|vizitator|7300203|11-13
+ADD MEMBER|Larisa|Stoica|student|20|larisa.stoica@email.org|Colegiul Tehnic|2|vizitator|7300203|11-13
+ADD MEMBER|Victor|Radu|profesor|37|victor.radu@domain.ro|Universitatea Bucuresti|6|vizitator|7300203|11-13
+ADD MEMBER|Daniel|Marin|profesor|55||Universitatea Politehnica|15|vizitator|7300203|11-13
+FIND MEMBER|Sorin|Ionescu|profesor|48||Universitatea Babes-Bolyai|12|vizitator|7300203|13-15
+FIND MEMBER|Larisa|Stoica|student|20|larisa.stoica@email.org|Colegiul Tehnic|2|vizitator|7300203|13-15
+FIND MEMBER|Florin|Georgescu|profesor|45|florin.georgescu@example.com|Colegiul National|12|ghid|7300203|11-13
+FIND GUIDE|Florin|Georgescu|profesor|45|florin.georgescu@example.com|Colegiul National|12|ghid|7300203|11-13
+FIND GUIDE|Florin|Georgescu|profesor|45|florin.georgescu@example.com|Colegiul National|12|ghid|7300203|13-15
+FIND GUIDE|Sorin|Ionescu|profesor|48||Universitatea Babes-Bolyai|12|vizitator|7300203|13-15

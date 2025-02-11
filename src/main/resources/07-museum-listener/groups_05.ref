@@ -1,0 +1,11 @@
+7300201 ## 10-12 ## new guide: surname=Maria, name=Ionescu, role=ghid, age=45, email=maria.ionescu@domain.ro, school=Colegiul National, experience=10
+7300201 ## 10-12 ## new member: surname=Alex, name=Popescu, role=vizitator, age=20, email=alex.popescu@example.com, school=Liceul National, studyYear=2
+7300201 ## 10-12 ## new member: surname=Andrei, name=Dumitrescu, role=vizitator, age=22, email=andrei.dumitrescu@email.org, school=Colegiul Tehnic, studyYear=3
+7300201 ## 10-12 ## new member: surname=Ioana, name=Georgescu, role=vizitator, age=38, email=null, school=Universitatea Politehnica, experience=5
+7300201 ## 10-12 ## new member: surname=George, name=Stoica, role=vizitator, age=19, email=george.stoica@example.com, school=Liceul National, studyYear=1
+7300402 ## 13-15 ## new guide: surname=Elena, name=Radu, role=ghid, age=50, email=elena.radu@domain.ro, school=Universitatea de Vest, experience=15
+7300402 ## 13-15 ## new member: surname=Mihai, name=Nistor, role=vizitator, age=21, email=null, school=Liceul National, studyYear=3
+7300402 ## 13-15 ## new member: surname=Ana, name=Marin, role=vizitator, age=40, email=ana.marin@email.org, school=Colegiul Pedagogic, experience=8
+7300201 ## 11-13 ## new guide: surname=Oana, name=Nistor, role=ghid, age=19, email=oana.nistor@example.com, school=Liceul National, experience=1
+7300201 ## 11-13 ## new member: surname=Daniel, name=Marin, role=vizitator, age=55, email=null, school=Universitatea Politehnica, experience=15
+7300201 ## 11-13 ## new member: surname=Adrian, name=Diaconescu, role=vizitator, age=21, email=adrian.diaconescu@example.com, school=Universitatea de Vest, studyYear=3

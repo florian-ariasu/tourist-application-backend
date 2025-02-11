@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-02-04T01:07:50" hostname="Florians-MacBook-Air.local" time="0.036">
+  <properties/>
+  <testcase name="erroredGroupGuide04()" classname="MainTest" time="0.016"/>
+  <testcase name="erroredGroupMembers05()" classname="MainTest" time="0.002"/>
+  <testcase name="findGroups06()" classname="MainTest" time="0.002"/>
+  <testcase name="basicMuseumsLoad01()" classname="MainTest" time="0.002"/>
+  <testcase name="museumNotificator07()" classname="MainTest" time="0.003"/>
+  <testcase name="erroredMuseumsLoad02()" classname="MainTest" time="0.003"/>
+  <testcase name="basicGroupsLoad03()" classname="MainTest" time="0.002"/>
+  <system-out><![CDATA[Index 13 out of bounds for length 4
+Index 13 out of bounds for length 4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

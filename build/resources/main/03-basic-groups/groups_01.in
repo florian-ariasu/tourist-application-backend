@@ -1,0 +1,12 @@
+Comanda|Prenume|Nume|Titulatura|Varsta|Email|Scoala|Anul de studii/experienta profesionala|Rol|Cod muzeu|Interval orar
+ADD GUIDE|Maria|Ionescu|profesor|45|maria.ionescu@domain.ro|Colegiul National|10|ghid|7300203|10-12
+ADD MEMBER|Alex|Popescu|student|20|alex.popescu@example.com|Liceul National|2|vizitator|7300203|10-12
+ADD MEMBER|Andrei|Dumitrescu|student|22|andrei.dumitrescu@email.org|Colegiul Tehnic|3|vizitator|7300203|10-12
+ADD MEMBER|Ioana|Georgescu|profesor|38||Universitatea Politehnica|5|vizitator|7300203|10-12
+ADD MEMBER|George|Stoica|student|19|george.stoica@example.com|Liceul National|1|vizitator|7300203|10-12
+REMOVE MEMBER|Ioana|Georgescu|profesor|38||Universitatea Politehnica|5|vizitator|7300203|10-12
+ADD GUIDE|Elena|Radu|profesor|50|elena.radu@domain.ro|Universitatea de Vest|15|ghid|7300203|13-15
+ADD MEMBER|Mihai|Nistor|student|21||Liceul National|3|vizitator|7300203|13-15
+ADD MEMBER|Ana|Marin|profesor|40|ana.marin@email.org|Colegiul Pedagogic|8|vizitator|7300203|13-15
+ADD MEMBER|Vlad|Diaconescu|student|23|vlad.diaconescu@example.com|Universitatea de Vest|4|vizitator|7300203|13-15
+REMOVE MEMBER|Mihai|Nistor|student|21||Liceul National|3|vizitator|7300203|13-15

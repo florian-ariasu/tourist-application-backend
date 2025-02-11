@@ -1,0 +1,20 @@
+Comanda|Prenume|Nume|Titulatura|Varsta|Email|Scoala|Anul de studii/experienta profesionala|Rol|Cod muzeu|Interval orar
+ADD MEMBER|Ioana|Georgescu|profesor|38||Universitatea Politehnica|5|vizitator|7300203|10-12
+ADD MEMBER|George|Stoica|student|19|george.stoica@example.com|Liceul National|1|vizitator|7300203|10-12
+ADD GUIDE|Elena|Radu|profesor|50|elena.radu@domain.ro|Universitatea de Vest|15|ghid|7300203|13-15
+ADD MEMBER|Mihai|Nistor|student|21||Liceul National|3|vizitator|7300203|13-15
+ADD MEMBER|Vlad|Diaconescu|student|23|vlad.diaconescu@example.com|Universitatea de Vest|4|vizitator|7300203|13-15
+ADD MEMBER|Roxana|Popescu|student|18|roxana.popescu@example.com|Liceul National|1|vizitator|7300203|13-15
+ADD MEMBER|Sorin|Ionescu|profesor|48||Universitatea Babes-Bolyai|12|vizitator|7300203|13-15
+ADD MEMBER|Diana|Dumitrescu|student|24|diana.dumitrescu@domain.ro|Universitatea Politehnica|4|vizitator|7300203|13-15
+ADD MEMBER|Paul|Georgescu|profesor|42|paul.georgescu@example.com|Universitatea Alexandru Ioan Cuza|9|vizitator|7300203|13-15
+ADD MEMBER|Larisa|Stoica|student|20|larisa.stoica@email.org|Colegiul Tehnic|2|vizitator|7300203|13-15
+ADD MEMBER|Victor|Radu|profesor|37|victor.radu@domain.ro|Universitatea Bucuresti|6|vizitator|7300203|13-15
+ADD MEMBER|Oana|Nistor|student|19|oana.nistor@example.com|Liceul National|1|vizitator|7300203|13-15
+ADD MEMBER|Daniel|Marin|profesor|55||Universitatea Politehnica|15|vizitator|7300203|13-15
+ADD MEMBER|Adrian|Diaconescu|student|21|adrian.diaconescu@example.com|Universitatea de Vest|3|vizitator|7300203|13-15
+ADD MEMBER|Raluca|Popescu|student|22|raluca.popescu@example.com|Academia de Studii Economice|3|vizitator|7300203|13-15
+ADD MEMBER|Gabriel|Ionescu|profesor|39|gabriel.ionescu@email.org|Universitatea Politehnica|8|vizitator|7300203|13-15
+REMOVE MEMBER|Victor|Radu|profesor|37|victor.radu@domain.ro|Universitatea Bucuresti|6|vizitator|7300203|13-15
+REMOVE MEMBER|Victor|Radu|profesor|37|victor.radu@domain.ro|Universitatea Bucuresti|6|vizitator|7300203|13-15
+REMOVE MEMBER|Victor|Radu|profesor|37|victor.radu@domain.ro|Universitatea Bucuresti|6|vizitator|7300203|11-13
