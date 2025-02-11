@@ -97,7 +97,7 @@ Implements event notification system:
 
 #### ⚠️ Error Handling
 
-Custom exceptions for robust operation:
+**Custom exceptions** for robust operation:
 ```java
 GroupNotExistsException
 GroupThresholdException
@@ -114,7 +114,7 @@ PersonNotExistsException
 
 ### 🤝 Contributing
 
-If you find any bugs or have suggestions:
+If you find any **bugs** or have **suggestions**:
 
 1. Fork the repo and create a separate branch
 2. Ensure your contribution follows the OOP principles outlined
