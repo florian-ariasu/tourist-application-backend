@@ -25,7 +25,7 @@ A sophisticated backend system for museum database and tourist group management,
 ### 🚀 Getting Started
 
 #### 📦 Prerequisites
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 17 or higher
 - Gradle build tool
 
 #### ⚙️ Installation
