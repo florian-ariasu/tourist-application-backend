@@ -44,20 +44,28 @@ A sophisticated backend system for museum database and tourist group management,
 
 #### 🧪 Testing
 
-The project includes comprehensive testing suites for:
+Our testing suite covers key functionality:
+
 - Museum operations validation
 - Group management scenarios
-- Event notification testing
+- Event notification testing  
 - Exception handling verification
 
-Run tests with:
+To run tests:
+
 ```bash
 gradle test
 ```
 
-> [!TIP]  
-> #### Gradle Integration with IntelliJ IDEA 📦  
-> The project includes the **Gradle Wrapper** (`gradle/wrapper` directory), allowing IntelliJ IDEA to recognize it as a Gradle project automatically. No additional plugins are required—just open the project and you can access Gradle tasks directly from the sidebar
+> 💡 **Important**: Run tests through IntelliJ's sidebar instead of terminal for better visibility.
+
+###### IDE Integration
+
+IntelliJ IDEA users can leverage the included Gradle Wrapper (`gradle/wrapper`) for seamless integration:
+
+- Automatic project recognition
+- Direct access to Gradle tasks via sidebar
+- No additional plugin requirements
 
 ### 🏗️ Architecture & Implementation
 
