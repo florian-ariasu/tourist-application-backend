@@ -120,4 +120,4 @@ If you find any bugs or have suggestions:
 3. Document any design pattern modifications
 4. Follow the existing code style and naming conventions
 5. Submit changes that maintain test compatibility
-6. Push the changes (to your own fork) and create a pull request
+6. Push the changes and create a pull request
