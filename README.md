@@ -5,7 +5,7 @@ Backend system for museum database and tourist group management, featuring real-
 ## 📑 Table of Contents
 - [Core Features](#-core-features)
 - [Getting Started](#-getting-started)
-- [Architecture & Implementation](https://github.com/florian-ariasu/tourist-application-backend/blob/main/README.md#%EF%B8%8F-architecture--implementation)
+- [Architecture & Implementation](#%EF%B8%8F-architecture--implementation)
 - [Testing](#-testing)
 - [Contributing](#-contributing)
 
