@@ -6,7 +6,6 @@ A sophisticated backend system for museum database and tourist group management,
 - [Core Features](#-core-features)
 - [Getting Started](#-getting-started)
 - [Architecture & Implementation](#%EF%B8%8F-architecture--implementation)
-- [Testing](#-testing)
 - [Contributing](#-contributing)
 
 ### ✨ Core Features
@@ -30,7 +29,6 @@ A sophisticated backend system for museum database and tourist group management,
 - Gradle build tool
 
 #### ⚙️ Installation
-
 1. Clone the repository
 2. Install Gradle if not already installed:
    - Download from [Gradle's official website](https://gradle.org/install/)
@@ -39,8 +37,7 @@ A sophisticated backend system for museum database and tourist group management,
    gradle build
    ```
 
-### 🧪 Testing
-
+#### 🧪 Testing
 The project includes comprehensive testing suites for:
 - Museum operations validation
 - Group management scenarios
