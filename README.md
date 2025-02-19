@@ -14,7 +14,7 @@ A sophisticated backend system for museum database and tourist group management,
 #### 🏛️ Museum Management
 
 - Dynamic museum entity creation and management
-- Location-based museum organization
+- Location-based museum organisation
 - Real-time event notifications system
 - Comprehensive museum data handling
 
