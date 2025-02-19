@@ -70,31 +70,31 @@ gradle test
 
 #### 📐 Design Patterns
 
-##### 1. Singleton Pattern 🔒
+###### 1. Singleton Pattern 🔒
 Used for the `Database` class to ensure a single source of truth:
 - Prevents data inconsistency
 - Provides centralized data access
 
-##### 2. Builder Pattern 🏗️
+###### 2. Builder Pattern 🏗️
 Implemented for the `Group` class:
 - Enables flexible object construction
 - Supports optional parameters
 - Implements method chaining
 - Improves code readability
 
-##### 3. Factory Pattern 🏭
+###### 3. Factory Pattern 🏭
 Handles `Person` object creation:
 - Creates `Student` and `Professor` instances dynamically
 - Centralizes object creation logic
 - Supports extensibility for new person types
 
-##### 4. Command Pattern ⚡
+###### 4. Command Pattern ⚡
 Manages operations through dedicated command classes:
 - Separates command invocation from execution
 - Supports operation queuing
 - Enables easy addition of new commands
 
-##### 5. Observer Pattern 👀
+###### 5. Observer Pattern 👀
 Implements event notification system:
 - Museums (`Subject`) notify groups guide (`Observer`)
 - Real-time updates for schedule changes
@@ -102,7 +102,7 @@ Implements event notification system:
 
 #### 🎯 OOP Principles
 
-##### Core Principles Implementation
+###### Core Principles Implementation
 - **Encapsulation**: Private fields with public accessors
 - **Inheritance**: Base `Person` class with specialized extensions
 - **Polymorphism**: Dynamic object behavior through Factory Pattern
@@ -139,4 +139,3 @@ If you find any **bugs** or have **suggestions**:
 
 ### 📜 Licence
 This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
-
