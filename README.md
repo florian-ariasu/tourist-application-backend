@@ -136,3 +136,7 @@ If you find any **bugs** or have **suggestions**:
 4. Follow the existing code style and naming conventions
 5. Submit changes that maintain test compatibility
 6. Push the changes and create a pull request
+
+### 📜 Licence
+This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
+
