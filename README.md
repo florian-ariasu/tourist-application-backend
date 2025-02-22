@@ -1,4 +1,4 @@
-## 🏛️ Tourist Application Backend
+## Tourist Application Backend
 
 A sophisticated backend system for museum database and tourist group management, featuring real-time event notifications between museums and tour guides. Built with Java using enterprise design patterns.
 
@@ -11,14 +11,14 @@ A sophisticated backend system for museum database and tourist group management,
 
 ### ✨ Core Features
 
-#### 🏛️ Museum Management
+#### Museum Management
 
 - Dynamic museum entity creation and management
 - Location-based museum organisation
 - Real-time event notifications system
 - Comprehensive museum data handling
 
-#### 👥 Tourist Group Management
+#### Tourist Group Management
 
 - Dynamic group creation and modification
 - Professional guide assignment
@@ -27,12 +27,12 @@ A sophisticated backend system for museum database and tourist group management,
 
 ### 🚀 Getting Started
 
-#### 📦 Prerequisites
+#### Prerequisites
 
 - Java Development Kit (JDK) 17 or higher
 - Gradle build tool
 
-#### ⚙️ Installation
+#### Installation
 
 1. Clone the repository
 2. Install Gradle if not already installed:
@@ -42,7 +42,7 @@ A sophisticated backend system for museum database and tourist group management,
    gradle build
    ```
 
-#### 🧪 Testing
+#### Testing
 
 Our testing suite covers key functionality:
 
@@ -68,39 +68,39 @@ gradle test
 
 ### 🏗️ Architecture & Implementation
 
-#### 📐 Design Patterns
+#### Design Patterns
 
-###### 1. Singleton Pattern 🔒
+###### 1. Singleton Pattern
 Used for the `Database` class to ensure a single source of truth:
 - Prevents data inconsistency
 - Provides centralized data access
 
-###### 2. Builder Pattern 🏗️
+###### 2. Builder Pattern
 Implemented for the `Group` class:
 - Enables flexible object construction
 - Supports optional parameters
 - Implements method chaining
 - Improves code readability
 
-###### 3. Factory Pattern 🏭
+###### 3. Factory Pattern
 Handles `Person` object creation:
 - Creates `Student` and `Professor` instances dynamically
 - Centralizes object creation logic
 - Supports extensibility for new person types
 
-###### 4. Command Pattern ⚡
+###### 4. Command Pattern
 Manages operations through dedicated command classes:
 - Separates command invocation from execution
 - Supports operation queuing
 - Enables easy addition of new commands
 
-###### 5. Observer Pattern 👀
+###### 5. Observer Pattern
 Implements event notification system:
 - Museums (`Subject`) notify groups guide (`Observer`)
 - Real-time updates for schedule changes
 - Decoupled communication between entities
 
-#### 🎯 OOP Principles
+#### OOP Principles
 
 ###### Core Principles Implementation
 - **Encapsulation**: Private fields with public accessors
@@ -108,7 +108,7 @@ Implements event notification system:
 - **Polymorphism**: Dynamic object behavior through Factory Pattern
 - **Abstraction**: Abstract classes and interfaces for clear separation
 
-#### ⚠️ Error Handling
+#### Error Handling
 
 **Custom exceptions** for robust operation:
 ```java
@@ -119,7 +119,7 @@ GuideTypeException
 PersonNotExistsException
 ```
 
-#### 🔄 Data Processing
+#### Data Processing
 
 - CSV-like file processing ('|' delimiter)
 - Multiple input format support
