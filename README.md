@@ -57,7 +57,7 @@ To run tests:
 gradle test
 ```
 > [!IMPORTANT]
-> Run tests through IntelliJ's sidebar instead of terminal for better visibility
+> Run tests through IntelliJ's sidebar instead of terminal for better visibility.
 
 > [!TIP]
 > IDE Integration
