@@ -12,14 +12,12 @@ A sophisticated backend system for museum database and tourist group management,
 ### Core Features
 
 #### Museum Management
-
 - Dynamic museum entity creation and management
 - Location-based museum organisation
 - Real-time event notifications system
 - Comprehensive museum data handling
 
 #### Tourist Group Management
-
 - Dynamic group creation and modification
 - Professional guide assignment
 - Member management with capacity controls
@@ -27,49 +25,43 @@ A sophisticated backend system for museum database and tourist group management,
 
 ### Getting Started
 
-#### Prerequisites
+#### Prerequisites  
+- Java Development Kit (JDK) 17 or higher  
+- Gradle build tool (or use the included **Gradle Wrapper**)  
 
-- Java Development Kit (JDK) 17 or higher
-- Gradle build tool
-
-#### Installation
-
-1. Clone the repository
-2. Install Gradle if not already installed:
-   - Download from [Gradle's official website](https://gradle.org/install/)
-3. Build the project:
+#### Installation  
+1. Clone the repository.  
+2. If you prefer a global Gradle installation, download it from [Gradle's official website](https://gradle.org/install/).  
+3. Build the project using the **Gradle Wrapper**:  
    ```bash
-   gradle build
-   ```
+   ./gradlew build  # (Windows users can use gradlew.bat)
+   ```  
 
-#### Testing
+#### Testing  
+The test suite covers key functionality:  
 
-The testing suite covers key functionality:
-
-- Museum operations validation
-- Group management scenarios
+- Museum operations validation  
+- Group management scenarios  
 - Event notification testing  
-- Exception handling verification
+- Exception handling verification  
 
-To run tests:
-
+To run tests:  
 ```bash
-gradle test
-```
-> [!IMPORTANT]
-> Run tests through IntelliJ's sidebar instead of terminal for better visibility.
+./gradlew test  # (Windows users can use gradlew.bat)
+```  
 
-> [!TIP]
-> IDE Integration
-> IntelliJ IDEA users can leverage the included Gradle Wrapper (`gradle/wrapper`) for seamless integration:
-- Automatic project recognition
-- Direct access to Gradle tasks via sidebar
-- No additional plugin requirements
+> [!IMPORTANT]  
+> For better visibility, run tests through IntelliJ IDEA’s sidebar instead of the terminal.  
+
+> [!TIP]    
+> IntelliJ IDEA users can leverage the included **Gradle Wrapper** (`gradle/wrapper`) for seamless integration:  
+- Automatic project recognition as a Gradle project  
+- Direct access to Gradle tasks via the sidebar  
+- No additional plugins or global Gradle installation required  
 
 ### Architecture & Implementation
 
 #### Design Patterns
-
 ###### 1. Singleton Pattern
 Used for the `Database` class to ensure a single source of truth:
 - Prevents data inconsistency
@@ -101,7 +93,6 @@ Implements event notification system:
 - Decoupled communication between entities
 
 #### OOP Principles
-
 ###### Core Principles Implementation
 - **Encapsulation**: Private fields with public accessors
 - **Inheritance**: Base `Person` class with specialized extensions
@@ -109,7 +100,6 @@ Implements event notification system:
 - **Abstraction**: Abstract classes and interfaces for clear separation
 
 #### Error Handling
-
 **Custom exceptions** for robust operation:
 ```java
 GroupNotExistsException
@@ -120,7 +110,6 @@ PersonNotExistsException
 ```
 
 #### Data Processing
-
 - CSV-like file processing ('|' delimiter)
 - Multiple input format support
 - Command-based operation
