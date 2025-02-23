@@ -2,14 +2,14 @@
 
 A sophisticated backend system for museum database and tourist group management, featuring real-time event notifications between museums and tour guides. Built with Java using enterprise design patterns.
 
-### 📑 Table of Contents 
+### Table of Contents 
 
 - [Core Features](#-core-features)
 - [Getting Started](#-getting-started)
 - [Architecture & Implementation](#%EF%B8%8F-architecture--implementation)
 - [Contributing](#-contributing)
 
-### ✨ Core Features
+### Core Features
 
 #### Museum Management
 
@@ -25,7 +25,7 @@ A sophisticated backend system for museum database and tourist group management,
 - Member management with capacity controls
 - Visit scheduling and coordination
 
-### 🚀 Getting Started
+### Getting Started
 
 #### Prerequisites
 
@@ -44,7 +44,7 @@ A sophisticated backend system for museum database and tourist group management,
 
 #### Testing
 
-Our testing suite covers key functionality:
+The testing suite covers key functionality:
 
 - Museum operations validation
 - Group management scenarios
@@ -66,7 +66,7 @@ gradle test
 - Direct access to Gradle tasks via sidebar
 - No additional plugin requirements
 
-### 🏗️ Architecture & Implementation
+### Architecture & Implementation
 
 #### Design Patterns
 
@@ -126,7 +126,7 @@ PersonNotExistsException
 - Command-based operation
 - Standardized output formatting
 
-### 🤝 Contributing
+### Contributing
 
 If you find any **bugs** or have **suggestions**:
 
@@ -137,5 +137,6 @@ If you find any **bugs** or have **suggestions**:
 5. Submit changes that maintain test compatibility
 6. Push the changes and create a pull request
 
-### 📜 Licence
+### Licence
+
 This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
