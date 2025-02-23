@@ -54,7 +54,7 @@ To run tests:
 > For better visibility, run tests through IntelliJ IDEA’s sidebar instead of the terminal.  
 
 > [!TIP]    
-> IntelliJ IDEA users can leverage the included **Gradle Wrapper** (`gradle/wrapper`) for seamless integration:  
+> IntelliJ IDEA users can leverage the included Gradle Wrapper (`gradle/wrapper`) for seamless integration:  
 - Automatic project recognition as a Gradle project  
 - Direct access to Gradle tasks via the sidebar  
 - No additional plugins or global Gradle installation required  
